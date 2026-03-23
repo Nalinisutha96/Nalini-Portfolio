@@ -96,7 +96,7 @@ Case Study
 
 <a
 href={project.url}
-target="_blank"
+target="_blank" rel="noreferrer"
 rel="noreferrer"
 className="text-cyan-400 hover:text-white"
 >

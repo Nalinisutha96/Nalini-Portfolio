@@ -49,7 +49,7 @@ Contact
 
 <a
 href="https://github.com/Nalinisutha96"
-target="_blank"
+target="_blank" rel="noreferrer"
 className="text-xl hover:text-cyan-400"
 >
 
@@ -59,7 +59,7 @@ className="text-xl hover:text-cyan-400"
 
 <a
 href="https://linkedin.com"
-target="_blank"
+target="_blank" rel="noreferrer"
 className="text-xl hover:text-cyan-400"
 >
 

@@ -35,7 +35,7 @@ GitHub Projects
 
 <a
 href={repo.html_url}
-target="_blank"
+target="_blank" rel="noreferrer"
 className="text-cyan-400"
 >
 

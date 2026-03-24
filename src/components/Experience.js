@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 const experience=[
 {
 year:"2023-Present",
-company:"Cornerstone Solution",
+company:"Cornerstohn Solution",
 role:"WordPress Developer"
 },
 {

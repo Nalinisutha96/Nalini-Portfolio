@@ -34,7 +34,7 @@ caseStudy:"Responsive construction website with gallery integration, performance
 },
 
 {
-title:"Impact LLP",
+title:"Immpact LLP",
 url:"#",
 caseStudy:"Designed and developed corporate website with modern UI and SEO friendly structure."
 },
